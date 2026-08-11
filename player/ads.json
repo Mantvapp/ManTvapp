@@ -1,0 +1,33 @@
+{
+  "PlayerAds": {
+    "ShowAds": false,
+    "PlayerAds": "inter",
+    "AdmobAppID": "",
+    "ClickCount": 1,
+    "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
+    "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
+    "AdmobReward": "ca-app-pub-3940256099942544/5224354917",
+    "VungleAppID": "",
+    "VungleBanner": "",
+    "VungleReward": "",
+    "MintegralAppID": "",
+    "PriorityBanner": "admob",
+    "PriorityNative": "admob",
+    "PriorityReward": "admob",
+    "MintegralAppKey": "",
+    "AdmobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "VugleInterstitial": "",
+    "priorityInterstitial": "admob",
+    "MintegralRewardUnitID": "",
+    "MintegralRewardPlacementID": "",
+    "MintegralInterstitialUnitID": "",
+    "MintegralInterstitialPlacementID": ""
+  },
+  "ControlApp": {
+    "ShowUpdate": false,
+    "UpdateLink": "",
+    "OnesignalID": "",
+    "Privacypolicy": "https://google.com",
+    "UpdateVersion": 2
+  }
+}
