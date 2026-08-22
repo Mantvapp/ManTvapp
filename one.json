@@ -1,0 +1,33 @@
+{
+  "Ads": {
+    "TvAds": "custom",
+    "ShowAds": false,
+    "CustomInterAds": [
+      {
+        "InterstitialLink": "https://glovo.com",
+        "ShowImageOrVideo": 1,
+        "InterstitialImageLink": "https://i.ytimg.com/vi/gQqlVIKBm7E/maxresdefault.jpg",
+        "InterstitialVideoLink": "https://pub-9085fef8739e4d01890791744078d6ed.r2.dev/Pagar%20menos%20sabe%20mejor%20%2C%20el%20mensaje%20de%20Glovo%20en%20su%20u%CC%81ltima%20campan%CC%83a.mp4",
+        "InterstitialQrImageForTv": "https://i.imgur.com/xWFMqjF.png"
+      }
+    ],
+    "MintegralAppID": "144002",
+    "MintegralAppKey": "7c22942b749fe6a6e361b675e96b3ee9",
+    "PriorityPlayerAds": "",
+    "MobileAndTAbletAds": "custom",
+    "MintegralRewardUnitID": "",
+    "MintegralRewardPlacementID": "",
+    "MintegralInterstitialUnitID": "462374",
+    "MintegralInterstitialPlacementID": "290653"
+  },
+  "ControllApp": {
+    "ShowScores": true,
+    "ShowUpdate": false,
+    "ShowChannels": false,
+    "UpdatePackage": "com.android.vendig",
+    "UpdateVersion": 2,
+    "ShowLiveEvents": true,
+    "PlayerPackageName": "com.smartflix.proplayer",
+    "ShowLiveAndChannels": true
+  }
+}
