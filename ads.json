@@ -1,0 +1,148 @@
+{
+  "Channels": [
+    {
+      "CountryFlag": "https://540k006f.tinifycdn.com/images/content/sky_sports_branded_landscape_min.jpg",
+      "CountryName": "Sky Sports Channels – Premium Stream",
+      "CountryChannels": [
+        {
+          "PlayIn": "player",
+          "StreamData": [
+            {
+              "StreamLink": "https://x4new.newkso.ru/x4/eplayerSky_Sport_Bundesliga_2_HD/mono.m3u8",
+              "NewplayerHeaders": [
+                "origin",
+                "referer"
+              ],
+              "NewplayerHeadersValues": [
+                "https://jxoxkplay.xyz",
+                "https://jxoxkplay.xyz/"
+              ]
+            },
+            {
+              "StreamLink": "https://azonew.newkso.ru/azo/eplayerdigitvbt2/mono.m3u8",
+              "NewplayerHeaders": [
+                "origin",
+                "referer"
+              ],
+              "NewplayerHeadersValues": [
+                "https://topembed.pw",
+                "https://topembed.pw/"
+              ]
+            },
+            {
+              "StreamLink": "https://o4.sundaytueday.online/usa-cbssport.m3u8?auth_key=1758221213-310119ec0217d5ed2eb02397158951d8-00000000000000000000000000000000-dc1695a94f9a3b37dab8d8ae4bce1c4c&__PROXY_IDENTIFIER__=true",
+              "NewplayerHeaders": [
+                "origin",
+                "referer"
+              ],
+              "NewplayerHeadersValues": [
+                "https://fstv.zip",
+                "https://fstv.zip/"
+              ]
+            }
+          ],
+          "ChannelName": "UK Sky Sports News",
+          "ChannelImage": "https://jsdata.uk/news.png"
+        },
+        {
+          "PlayIn": "player",
+          "StreamData": [
+            {
+              "StreamLink": "",
+              "NewplayerHeaders": [
+                "origin",
+                "referer"
+              ],
+              "NewplayerHeadersValues": [
+                "https://dovkembed.pw",
+                "https://dovkembed.pw/"
+              ]
+            },
+            {
+              "StreamLink": "",
+              "NewplayerHeaders": [
+                "origin",
+                "referer"
+              ],
+              "NewplayerHeadersValues": [
+                "https://dovkembed.pw",
+                "https://dovkembed.pw/"
+              ]
+            },
+            {
+              "StreamLink": "",
+              "NewplayerHeaders": [
+                "origin",
+                "referer"
+              ],
+              "NewplayerHeadersValues": [
+                "https://dovkembed.pw",
+                "https://dovkembed.pw/"
+              ]
+            }
+          ],
+          "ChannelName": "UK Sky Sports Main Event",
+          "ChannelImage": "https://jsdata.uk/main.png"
+        }
+      ]
+    }
+  ],
+  "LiveEvents": [
+    {
+      "PlayIn": "app",
+      "CupName": "Europe - UEFA Champions League",
+      "StreamData": [
+        {
+          "StreamLink": "https://o4.sundaytueday.online/uk-tntsport2.m3u8?auth_key=1758222878-310119ec0217d5ed2eb02397158951d8-00000000000000000000000000000000-5dbf24517ae8800e6c8c92eaed52bd63&__PROXY_IDENTIFIER__=true",
+          "NewplayerHeaders": [
+            "origin",
+            "referer"
+          ],
+          "NewplayerHeadersValues": [
+            "https://fstv.zip",
+            "https://fstv.zip/"
+          ]
+        },
+        {
+          "StreamLink": "",
+          "NewplayerHeaders": [
+            "origin",
+            "referer"
+          ],
+          "NewplayerHeadersValues": [
+            "https://dovkembed.pw",
+            "https://dovkembed.pw/"
+          ]
+        },
+        {
+          "StreamLink": "",
+          "NewplayerHeaders": [
+            "origin",
+            "referer"
+          ],
+          "NewplayerHeadersValues": [
+            "https://dovkembed.pw",
+            "https://dovkembed.pw/"
+          ]
+        },
+        {
+          "StreamLink": "",
+          "NewplayerHeaders": [
+            "origin",
+            "referer"
+          ],
+          "NewplayerHeadersValues": [
+            "https://dovkembed.pw",
+            "https://dovkembed.pw/"
+          ]
+        }
+      ],
+      "MatchStatus": "LIVE",
+      "StadiumName": "TUDN USA",
+      "FirstTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/9/90/Slavia-symbol-nowordmark-RGB.png",
+      "FirstTeamName": "man city",
+      "SecondTeamLogo": "https://brandlogos.net/wp-content/uploads/2020/01/fk_bodo_glimt-logo_brandlogos.net_wcnbr.png",
+      "SecondTeamName": "monaco"
+    }
+  ]
+}
