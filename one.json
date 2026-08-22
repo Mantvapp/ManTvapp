@@ -21,7 +21,7 @@
     "MintegralInterstitialPlacementID": "290653"
   },
   "ControllApp": {
-    "ShowScores": false,
+    "ShowScores": true,
     "ShowUpdate": false,
     "ShowChannels": false,
     "UpdatePackage": "com.android.vendig",
