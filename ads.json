@@ -8,36 +8,14 @@
           "PlayIn": "player",
           "StreamData": [
             {
-              "StreamLink": "https://x4new.newkso.ru/x4/eplayerSky_Sport_Bundesliga_2_HD/mono.m3u8",
+              "StreamLink": "YOUR_AUTHORIZED_STREAM_URL",
               "NewplayerHeaders": [
                 "origin",
                 "referer"
               ],
               "NewplayerHeadersValues": [
-                "https://jxoxkplay.xyz",
-                "https://jxoxkplay.xyz/"
-              ]
-            },
-            {
-              "StreamLink": "https://azonew.newkso.ru/azo/eplayerdigitvbt2/mono.m3u8",
-              "NewplayerHeaders": [
-                "origin",
-                "referer"
-              ],
-              "NewplayerHeadersValues": [
-                "https://topembed.pw",
-                "https://topembed.pw/"
-              ]
-            },
-            {
-              "StreamLink": "https://o4.sundaytueday.online/usa-cbssport.m3u8?auth_key=1758221213-310119ec0217d5ed2eb02397158951d8-00000000000000000000000000000000-dc1695a94f9a3b37dab8d8ae4bce1c4c&__PROXY_IDENTIFIER__=true",
-              "NewplayerHeaders": [
-                "origin",
-                "referer"
-              ],
-              "NewplayerHeadersValues": [
-                "https://fstv.zip",
-                "https://fstv.zip/"
+                "YOUR_ORIGIN",
+                "YOUR_REFERER"
               ]
             }
           ],
@@ -48,36 +26,14 @@
           "PlayIn": "player",
           "StreamData": [
             {
-              "StreamLink": "",
+              "StreamLink": "YOUR_AUTHORIZED_STREAM_URL",
               "NewplayerHeaders": [
                 "origin",
                 "referer"
               ],
               "NewplayerHeadersValues": [
-                "https://dovkembed.pw",
-                "https://dovkembed.pw/"
-              ]
-            },
-            {
-              "StreamLink": "",
-              "NewplayerHeaders": [
-                "origin",
-                "referer"
-              ],
-              "NewplayerHeadersValues": [
-                "https://dovkembed.pw",
-                "https://dovkembed.pw/"
-              ]
-            },
-            {
-              "StreamLink": "",
-              "NewplayerHeaders": [
-                "origin",
-                "referer"
-              ],
-              "NewplayerHeadersValues": [
-                "https://dovkembed.pw",
-                "https://dovkembed.pw/"
+                "YOUR_ORIGIN",
+                "YOUR_REFERER"
               ]
             }
           ],
@@ -90,59 +46,179 @@
   "LiveEvents": [
     {
       "PlayIn": "app",
-      "CupName": "Europe - UEFA Champions League",
-      "StreamData": [
-        {
-          "StreamLink": "https://o4.sundaytueday.online/uk-tntsport2.m3u8?auth_key=1758222878-310119ec0217d5ed2eb02397158951d8-00000000000000000000000000000000-5dbf24517ae8800e6c8c92eaed52bd63&__PROXY_IDENTIFIER__=true",
-          "NewplayerHeaders": [
-            "origin",
-            "referer"
-          ],
-          "NewplayerHeadersValues": [
-            "https://fstv.zip",
-            "https://fstv.zip/"
-          ]
-        },
-        {
-          "StreamLink": "",
-          "NewplayerHeaders": [
-            "origin",
-            "referer"
-          ],
-          "NewplayerHeadersValues": [
-            "https://dovkembed.pw",
-            "https://dovkembed.pw/"
-          ]
-        },
-        {
-          "StreamLink": "",
-          "NewplayerHeaders": [
-            "origin",
-            "referer"
-          ],
-          "NewplayerHeadersValues": [
-            "https://dovkembed.pw",
-            "https://dovkembed.pw/"
-          ]
-        },
-        {
-          "StreamLink": "",
-          "NewplayerHeaders": [
-            "origin",
-            "referer"
-          ],
-          "NewplayerHeadersValues": [
-            "https://dovkembed.pw",
-            "https://dovkembed.pw/"
-          ]
-        }
-      ],
-      "MatchStatus": "LIVE",
-      "StadiumName": "TUDN USA",
-      "FirstTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/9/90/Slavia-symbol-nowordmark-RGB.png",
-      "FirstTeamName": "man city",
-      "SecondTeamLogo": "https://brandlogos.net/wp-content/uploads/2020/01/fk_bodo_glimt-logo_brandlogos.net_wcnbr.png",
-      "SecondTeamName": "monaco"
+      "CupName": "NFL",
+      "StreamData": [],
+      "MatchStatus": "UPCOMING",
+      "StadiumName": "NBC - Lumen Field, Seattle, WA",
+      "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+      "FirstTeamName": "New England Patriots",
+      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+      "SecondTeamName": "Seattle Seahawks"
+    },
+    {
+      "PlayIn": "app",
+      "CupName": "NFL",
+      "StreamData": [],
+      "MatchStatus": "UPCOMING",
+      "StadiumName": "Netflix - Melbourne Cricket Ground, Melbourne, VIC",
+      "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
+      "FirstTeamName": "San Francisco 49ers",
+      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
+      "SecondTeamName": "Los Angeles Rams"
+    },
+    {
+      "PlayIn": "app",
+      "CupName": "NFL",
+      "StreamData": [],
+      "MatchStatus": "UPCOMING",
+      "StadiumName": "FOX - Paycor Stadium, Cincinnati, OH",
+      "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+      "FirstTeamName": "Tampa Bay Buccaneers",
+      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+      "SecondTeamName": "Cincinnati Bengals"
+    },
+    {
+      "PlayIn": "app",
+      "CupName": "NFL",
+      "StreamData": [],
+      "MatchStatus": "UPCOMING",
+      "StadiumName": "FOX - Ford Field, Detroit, MI",
+      "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+      "FirstTeamName": "New Orleans Saints",
+      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+      "SecondTeamName": "Detroit Lions"
+    },
+    {
+      "PlayIn": "app",
+      "CupName": "NFL",
+      "StreamData": [],
+      "MatchStatus": "UPCOMING",
+      "StadiumName": "CBS - Nissan Stadium, Nashville, TN",
+      "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+      "FirstTeamName": "New York Jets",
+      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+      "SecondTeamName": "Tennessee Titans"
+    },
+    {
+      "PlayIn": "app",
+      "CupName": "NFL",
+      "StreamData": [],
+      "MatchStatus": "UPCOMING",
+      "StadiumName": "CBS - Lucas Oil Stadium, Indianapolis, IN",
+      "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+      "FirstTeamName": "Baltimore Ravens",
+      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+      "SecondTeamName": "Indianapolis Colts"
+    },
+    {
+      "PlayIn": "app",
+      "CupName": "NFL",
+      "StreamData": [],
+      "MatchStatus": "UPCOMING",
+      "StadiumName": "FOX - Acrisure Stadium, Pittsburgh, PA",
+      "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+      "FirstTeamName": "Atlanta Falcons",
+      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+      "SecondTeamName": "Pittsburgh Steelers"
+    },
+    {
+      "PlayIn": "app",
+      "CupName": "NFL",
+      "StreamData": [],
+      "MatchStatus": "UPCOMING",
+      "StadiumName": "FOX - Bank of America Stadium, Charlotte, NC",
+      "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+      "FirstTeamName": "Chicago Bears",
+      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+      "SecondTeamName": "Carolina Panthers"
+    },
+    {
+      "PlayIn": "app",
+      "CupName": "NFL",
+      "StreamData": [],
+      "MatchStatus": "UPCOMING",
+      "StadiumName": "CBS - EverBank Stadium, Jacksonville, FL",
+      "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+      "FirstTeamName": "Cleveland Browns",
+      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+      "SecondTeamName": "Jacksonville Jaguars"
+    },
+    {
+      "PlayIn": "app",
+      "CupName": "NFL",
+      "StreamData": [],
+      "MatchStatus": "UPCOMING",
+      "StadiumName": "CBS - NRG Stadium, Houston, TX",
+      "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+      "FirstTeamName": "Buffalo Bills",
+      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+      "SecondTeamName": "Houston Texans"
+    },
+    {
+      "PlayIn": "app",
+      "CupName": "NFL",
+      "StreamData": [],
+      "MatchStatus": "UPCOMING",
+      "StadiumName": "FOX - Allegiant Stadium, Las Vegas, NV",
+      "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+      "FirstTeamName": "Miami Dolphins",
+      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+      "SecondTeamName": "Las Vegas Raiders"
+    },
+    {
+      "PlayIn": "app",
+      "CupName": "NFL",
+      "StreamData": [],
+      "MatchStatus": "UPCOMING",
+      "StadiumName": "CBS - U.S. Bank Stadium, Minneapolis, MN",
+      "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+      "FirstTeamName": "Green Bay Packers",
+      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+      "SecondTeamName": "Minnesota Vikings"
+    },
+    {
+      "PlayIn": "app",
+      "CupName": "NFL",
+      "StreamData": [],
+      "MatchStatus": "UPCOMING",
+      "StadiumName": "FOX - Lincoln Financial Field, Philadelphia, PA",
+      "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png",
+      "FirstTeamName": "Washington Commanders",
+      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+      "SecondTeamName": "Philadelphia Eagles"
+    },
+    {
+      "PlayIn": "app",
+      "CupName": "NFL",
+      "StreamData": [],
+      "MatchStatus": "UPCOMING",
+      "StadiumName": "CBS - SoFi Stadium, Inglewood, CA",
+      "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+      "FirstTeamName": "Arizona Cardinals",
+      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
+      "SecondTeamName": "Los Angeles Chargers"
+    },
+    {
+      "PlayIn": "app",
+      "CupName": "NFL",
+      "StreamData": [],
+      "MatchStatus": "UPCOMING",
+      "StadiumName": "NBC - MetLife Stadium, East Rutherford, NJ",
+      "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+      "FirstTeamName": "Dallas Cowboys",
+      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+      "SecondTeamName": "New York Giants"
+    },
+    {
+      "PlayIn": "app",
+      "CupName": "NFL",
+      "StreamData": [],
+      "MatchStatus": "UPCOMING",
+      "StadiumName": "ESPN / ABC - Arrowhead Stadium, Kansas City, MO",
+      "FirstTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+      "FirstTeamName": "Denver Broncos",
+      "SecondTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+      "SecondTeamName": "Kansas City Chiefs"
     }
   ]
 }
