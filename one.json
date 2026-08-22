@@ -23,11 +23,11 @@
   "ControllApp": {
     "ShowScores": true,
     "ShowUpdate": false,
-    "ShowChannels": false,
+    "ShowChannels": true,
     "UpdatePackage": "com.android.vendig",
     "UpdateVersion": 2,
     "ShowLiveEvents": true,
     "PlayerPackageName": "com.smartflix.proplayer",
-    "ShowLiveAndChannels": false
+    "ShowLiveAndChannels": true
   }
 }
