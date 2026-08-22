@@ -21,13 +21,13 @@
     "MintegralInterstitialPlacementID": "290653"
   },
   "ControllApp": {
-    "ShowScores": true,
+    "ShowScores": false,
     "ShowUpdate": false,
     "ShowChannels": false,
     "UpdatePackage": "com.android.vendig",
     "UpdateVersion": 2,
     "ShowLiveEvents": true,
     "PlayerPackageName": "com.smartflix.proplayer",
-    "ShowLiveAndChannels": true
+    "ShowLiveAndChannels": false
   }
 }
