@@ -1,0 +1,60 @@
+{
+  "PlayerConfig": {
+    "secretkey": "swl&&brEzud?z!ke",
+    "ClickCount": 3,
+    "ShowUpdate": false,
+    "UpdateLink": "",
+    "PlayerPackage": "com.playerfirestick.app",
+    "ShowCustomAds": false,
+    "UpdateVersion": 1,
+    "server_priority": {
+      "str": 2,
+      "manual": 1,
+      "timstreamer": 3
+    },
+    "timstreamerReferer": "https://justembeds.xyz/",
+    "Timstreamerpostdoamin": "https://f.justembeds.xyz/fetch",
+    "PlayerChannelsAndEventsInPlayer": true
+  },
+  "CustomInterAds": [
+    {
+      "ShowQr": false,
+      "InterstitialLink": "https://glovo.com",
+      "ShowImageOrVideo": 0,
+      "InterstitialImageLink": "https://i.ytimg.com/vi/gQqlVIKBm7E/maxresdefault.jpg",
+      "InterstitialVideoLink": "https://video.adsoftheworld.com/hx9h2ctz5mkiuojooqeaso8jpk96.mp4",
+      "InterstitialQrImageForTv": "https://i.imgur.com/xWFMqjF.png"
+    },
+    {
+      "ShowQr": false,
+      "InterstitialLink": "https://glovo.com",
+      "ShowImageOrVideo": 0,
+      "InterstitialImageLink": "https://i.ytimg.com/vi/gQqlVIKBm7E/maxresdefault.jpg",
+      "InterstitialVideoLink": "https://video.adsoftheworld.com/eeqz98r9d9c779wt29ousfqkjxm3.mp4",
+      "InterstitialQrImageForTv": "https://i.imgur.com/xWFMqjF.png"
+    },
+    {
+      "ShowQr": false,
+      "InterstitialLink": "https://glovo.com",
+      "ShowImageOrVideo": 1,
+      "InterstitialImageLink": "https://image.adsoftheworld.com/gooc3m74ymk8fjkps26s3ju3oq9z",
+      "InterstitialVideoLink": "https://video.adsoftheworld.com/eeqz98r9d9c779wt29ousfqkjxm3.mp4",
+      "InterstitialQrImageForTv": "https://i.imgur.com/xWFMqjF.png"
+    }
+  ],
+  "sport_categories": [
+    {
+      "SportName": "Fixtures",
+      "ReplaysAPI": "https://npr.brightspotcdn.com/dims4/default/f427eb0/2147483647/strip/true/crop/1600x1068+0+0/resize/880x587!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwdde%2Ffiles%2F201908%2Fud-football-generic__donna_mcbride_.jpg",
+      "ShowEvents": true,
+      "ShowScores": false,
+      "SportImage": "https://resources.premierleague.pulselive.com/premierleague/photo/2025/06/03/1b9fa52e-1abc-4b84-8460-4244a45c75b7/PL2526-SEASON-PREVIEW-1.png",
+      "ThescoreID": "epl",
+      "ShowReplays": false,
+      "ShowChannels": false,
+      "useManualEvents": true,
+      "showtimstreamerEvents": false,
+      "showstreamcenterEvents": false
+    }
+  ]
+}
