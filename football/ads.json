@@ -1,252 +1,304 @@
 {
   "Scores": [
     {
-      "SportName": "Football",
+      "SportName": "Premier League",
       "SportImage": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Soccerball.png",
       "stylecards": 5,
       "SportScores": [
         {
           "Time": "20:00",
           "League": "Premier League",
-          "Stadium": "Emirates Stadium",
-          "Team1Logo": "https://media.api-sports.io/football/teams/42.png",
-          "Team1Name": "Arsenal",
-          "Team2Logo": "https://media.api-sports.io/football/teams/50.png",
+          "Stadium": "Selhurst Park",
+          "Team1Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team1Name": "Crystal Palace",
+          "Team2Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
           "Team2Name": "Manchester City"
         },
         {
-          "Time": "17:30",
+          "Time": "12:30",
           "League": "Premier League",
           "Stadium": "Anfield",
-          "Team1Logo": "https://media.api-sports.io/football/teams/40.png",
+          "Team1Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
           "Team1Name": "Liverpool",
-          "Team2Logo": "https://media.api-sports.io/football/teams/33.png",
-          "Team2Name": "Manchester United"
-        },
-        {
-          "Time": "21:00",
-          "League": "La Liga",
-          "Stadium": "Santiago Bernabeu",
-          "Team1Logo": "https://media.api-sports.io/football/teams/541.png",
-          "Team1Name": "Real Madrid",
-          "Team2Logo": "https://media.api-sports.io/football/teams/529.png",
-          "Team2Name": "Barcelona"
-        },
-        {
-          "Time": "20:45",
-          "League": "Serie A",
-          "Stadium": "Allianz Stadium",
-          "Team1Logo": "https://media.api-sports.io/football/teams/496.png",
-          "Team1Name": "Juventus",
-          "Team2Logo": "https://media.api-sports.io/football/teams/505.png",
-          "Team2Name": "Inter"
-        },
-        {
-          "Time": "18:30",
-          "League": "Bundesliga",
-          "Stadium": "Allianz Arena",
-          "Team1Logo": "https://media.api-sports.io/football/teams/157.png",
-          "Team1Name": "Bayern Munich",
-          "Team2Logo": "https://media.api-sports.io/football/teams/165.png",
-          "Team2Name": "Borussia Dortmund"
-        },
-        {
-          "Time": "20:45",
-          "League": "Ligue 1",
-          "Stadium": "Parc des Princes",
-          "Team1Logo": "https://media.api-sports.io/football/teams/85.png",
-          "Team1Name": "Paris Saint-Germain",
-          "Team2Logo": "https://media.api-sports.io/football/teams/81.png",
-          "Team2Name": "Marseille"
-        },
-        {
-          "Time": "19:30",
-          "League": "Premier League",
-          "Stadium": "Stamford Bridge",
-          "Team1Logo": "https://media.api-sports.io/football/teams/49.png",
-          "Team1Name": "Chelsea",
-          "Team2Logo": "https://media.api-sports.io/football/teams/47.png",
-          "Team2Name": "Tottenham Hotspur"
-        },
-        {
-          "Time": "20:45",
-          "League": "Serie A",
-          "Stadium": "San Siro",
-          "Team1Logo": "https://media.api-sports.io/football/teams/489.png",
-          "Team1Name": "AC Milan",
-          "Team2Logo": "https://media.api-sports.io/football/teams/492.png",
-          "Team2Name": "Napoli"
-        },
-        {
-          "Time": "18:30",
-          "League": "La Liga",
-          "Stadium": "Metropolitano",
-          "Team1Logo": "https://media.api-sports.io/football/teams/530.png",
-          "Team1Name": "Atletico Madrid",
-          "Team2Logo": "https://media.api-sports.io/football/teams/536.png",
-          "Team2Name": "Sevilla"
+          "Team2Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team2Name": "Nottingham Forest"
         },
         {
           "Time": "15:00",
           "League": "Premier League",
-          "Stadium": "St James' Park",
-          "Team1Logo": "https://media.api-sports.io/football/teams/34.png",
-          "Team1Name": "Newcastle United",
-          "Team2Logo": "https://media.api-sports.io/football/teams/66.png",
-          "Team2Name": "Aston Villa"
+          "Stadium": "Vitality Stadium",
+          "Team1Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team1Name": "Bournemouth",
+          "Team2Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team2Name": "Everton"
+        },
+        {
+          "Time": "15:00",
+          "League": "Premier League",
+          "Stadium": "Coventry Building Society Arena",
+          "Team1Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team1Name": "Coventry City",
+          "Team2Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team2Name": "Hull City"
+        },
+        {
+          "Time": "17:30",
+          "League": "Premier League",
+          "Stadium": "Tottenham Hotspur Stadium",
+          "Team1Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team1Name": "Tottenham Hotspur",
+          "Team2Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team2Name": "Newcastle United"
+        },
+        {
+          "Time": "14:00",
+          "League": "Premier League",
+          "Stadium": "Stamford Bridge",
+          "Team1Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team1Name": "Chelsea",
+          "Team2Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team2Name": "Brighton and Hove Albion"
+        },
+        {
+          "Time": "14:00",
+          "League": "Premier League",
+          "Stadium": "Elland Road",
+          "Team1Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team1Name": "Leeds United",
+          "Team2Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team2Name": "Brentford"
+        },
+        {
+          "Time": "14:00",
+          "League": "Premier League",
+          "Stadium": "Stadium of Light",
+          "Team1Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team1Name": "Sunderland",
+          "Team2Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team2Name": "Fulham"
+        },
+        {
+          "Time": "16:30",
+          "League": "Premier League",
+          "Stadium": "Old Trafford",
+          "Team1Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team1Name": "Manchester United",
+          "Team2Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team2Name": "Ipswich Town"
+        },
+        {
+          "Time": "20:00",
+          "League": "Premier League",
+          "Stadium": "Villa Park",
+          "Team1Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team1Name": "Aston Villa",
+          "Team2Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team2Name": "Arsenal"
         }
       ],
       "stylesports": 3
     },
     {
-      "SportName": "Basketball",
-      "SportImage": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Basketball.png",
-      "stylecards": 3,
+      "SportName": "EFL Championship",
+      "SportImage": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Soccerball.png",
+      "stylecards": 5,
       "SportScores": [
         {
-          "Time": "",
-          "League": "",
+          "Time": "20:00",
+          "League": "EFL Championship",
           "Stadium": "",
-          "Team1Logo": "",
-          "Team1Name": "",
-          "Team2Logo": "",
-          "Team2Name": ""
+          "Team1Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team1Name": "Wrexham",
+          "Team2Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team2Name": "Birmingham City"
+        },
+        {
+          "Time": "12:30",
+          "League": "EFL Championship",
+          "Stadium": "",
+          "Team1Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team1Name": "Derby County",
+          "Team2Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team2Name": "Swansea City"
+        },
+        {
+          "Time": "12:30",
+          "League": "EFL Championship",
+          "Stadium": "",
+          "Team1Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team1Name": "Middlesbrough",
+          "Team2Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team2Name": "West Bromwich Albion"
+        },
+        {
+          "Time": "12:30",
+          "League": "EFL Championship",
+          "Stadium": "",
+          "Team1Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team1Name": "Wolverhampton Wanderers",
+          "Team2Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team2Name": "Stoke City"
+        },
+        {
+          "Time": "15:00",
+          "League": "EFL Championship",
+          "Stadium": "",
+          "Team1Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team1Name": "Blackburn Rovers",
+          "Team2Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team2Name": "Queens Park Rangers"
+        },
+        {
+          "Time": "15:00",
+          "League": "EFL Championship",
+          "Stadium": "",
+          "Team1Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team1Name": "Bolton Wanderers",
+          "Team2Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team2Name": "Lincoln City"
+        },
+        {
+          "Time": "15:00",
+          "League": "EFL Championship",
+          "Stadium": "",
+          "Team1Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team1Name": "Bristol City",
+          "Team2Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team2Name": "Portsmouth"
+        },
+        {
+          "Time": "15:00",
+          "League": "EFL Championship",
+          "Stadium": "",
+          "Team1Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team1Name": "Cardiff City",
+          "Team2Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team2Name": "Sheffield United"
+        },
+        {
+          "Time": "15:00",
+          "League": "EFL Championship",
+          "Stadium": "",
+          "Team1Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team1Name": "Charlton Athletic",
+          "Team2Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team2Name": "Preston North End"
+        },
+        {
+          "Time": "15:00",
+          "League": "EFL Championship",
+          "Stadium": "",
+          "Team1Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team1Name": "Norwich City",
+          "Team2Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team2Name": "Burnley"
+        },
+        {
+          "Time": "15:00",
+          "League": "EFL Championship",
+          "Stadium": "",
+          "Team1Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team1Name": "Southampton",
+          "Team2Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team2Name": "Millwall"
+        },
+        {
+          "Time": "15:00",
+          "League": "EFL Championship",
+          "Stadium": "",
+          "Team1Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team1Name": "Watford",
+          "Team2Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team2Name": "West Ham United"
         }
       ],
-      "stylesports": 1
+      "stylesports": 3
     },
     {
-      "SportName": "Tennis",
-      "SportImage": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Tennis_ball.svg",
-      "stylecards": 3,
+      "SportName": "EFL League One",
+      "SportImage": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Soccerball.png",
+      "stylecards": 5,
       "SportScores": [
         {
-          "Time": "",
-          "League": "",
+          "Time": "12:30",
+          "League": "EFL League One",
           "Stadium": "",
-          "Team1Logo": "",
-          "Team1Name": "",
-          "Team2Logo": "",
-          "Team2Name": ""
-        }
-      ],
-      "stylesports": 1
-    },
-    {
-      "SportName": "Baseball",
-      "SportImage": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Baseball.svg",
-      "stylecards": 3,
-      "SportScores": [
+          "Team1Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team1Name": "Blackpool",
+          "Team2Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team2Name": "Peterborough United"
+        },
         {
-          "Time": "",
-          "League": "",
+          "Time": "12:30",
+          "League": "EFL League One",
           "Stadium": "",
-          "Team1Logo": "",
-          "Team1Name": "",
-          "Team2Logo": "",
-          "Team2Name": ""
-        }
-      ],
-      "stylesports": 1
-    },
-    {
-      "SportName": "American Football",
-      "SportImage": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sport_football.svg",
-      "stylecards": 3,
-      "SportScores": [
+          "Team1Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team1Name": "Milton Keynes Dons",
+          "Team2Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team2Name": "Leicester City"
+        },
         {
-          "Time": "",
-          "League": "",
+          "Time": "15:00",
+          "League": "EFL League One",
           "Stadium": "",
-          "Team1Logo": "",
-          "Team1Name": "",
-          "Team2Logo": "",
-          "Team2Name": ""
-        }
-      ],
-      "stylesports": 1
-    },
-    {
-      "SportName": "Cricket",
-      "SportImage": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cricket_ball.svg",
-      "stylecards": 3,
-      "SportScores": [
+          "Team1Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team1Name": "Cambridge United",
+          "Team2Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team2Name": "Huddersfield Town"
+        },
         {
-          "Time": "",
-          "League": "",
+          "Time": "15:00",
+          "League": "EFL League One",
           "Stadium": "",
-          "Team1Logo": "",
-          "Team1Name": "",
-          "Team2Logo": "",
-          "Team2Name": ""
-        }
-      ],
-      "stylesports": 1
-    },
-    {
-      "SportName": "Golf",
-      "SportImage": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Golf_ball.svg",
-      "stylecards": 3,
-      "SportScores": [
+          "Team1Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team1Name": "Leyton Orient",
+          "Team2Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team2Name": "Barnsley"
+        },
         {
-          "Time": "",
-          "League": "",
+          "Time": "15:00",
+          "League": "EFL League One",
           "Stadium": "",
-          "Team1Logo": "",
-          "Team1Name": "",
-          "Team2Logo": "",
-          "Team2Name": ""
-        }
-      ],
-      "stylesports": 1
-    },
-    {
-      "SportName": "Volleyball",
-      "SportImage": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Volleyball_ball.svg",
-      "stylecards": 3,
-      "SportScores": [
+          "Team1Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team1Name": "Notts County",
+          "Team2Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team2Name": "Burton Albion"
+        },
         {
-          "Time": "",
-          "League": "",
+          "Time": "15:00",
+          "League": "EFL League One",
           "Stadium": "",
-          "Team1Logo": "",
-          "Team1Name": "",
-          "Team2Logo": "",
-          "Team2Name": ""
-        }
-      ],
-      "stylesports": 1
-    },
-    {
-      "SportName": "Rugby",
-      "SportImage": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ru_ball_marron.svg",
-      "stylecards": 3,
-      "SportScores": [
+          "Team1Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team1Name": "Plymouth Argyle",
+          "Team2Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team2Name": "Bradford City"
+        },
         {
-          "Time": "",
-          "League": "",
+          "Time": "15:00",
+          "League": "EFL League One",
           "Stadium": "",
-          "Team1Logo": "",
-          "Team1Name": "",
-          "Team2Logo": "",
-          "Team2Name": ""
-        }
-      ],
-      "stylesports": 1
-    },
-    {
-      "SportName": "Table Tennis",
-      "SportImage": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Table_tennis.svg",
-      "stylecards": 3,
-      "SportScores": [
+          "Team1Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team1Name": "Sheffield Wednesday",
+          "Team2Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team2Name": "Bromley"
+        },
         {
-          "Time": "",
-          "League": "",
+          "Time": "15:00",
+          "League": "EFL League One",
           "Stadium": "",
-          "Team1Logo": "",
-          "Team1Name": "",
-          "Team2Logo": "",
-          "Team2Name": ""
+          "Team1Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team1Name": "Stevenage",
+          "Team2Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team2Name": "Doncaster Rovers"
+        },
+        {
+          "Time": "15:00",
+          "League": "EFL League One",
+          "Stadium": "",
+          "Team1Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team1Name": "Stockport County",
+          "Team2Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
+          "Team2Name": "Wycombe Wanderers"
         }
       ],
       "stylesports": 1
@@ -261,7 +313,7 @@
   },
   "updates": {
     "tv": {
-      "url": "\thttp://www.amazon.com/gp/mas/dl/android?p=com.amazon.mp3",
+      "url": "http://www.amazon.com/gp/mas/dl/android?p=com.amazon.mp3",
       "title": "Update Voltra TV",
       "enabled": false,
       "message": "Scan the QR code to install the latest Voltra TV release.",
