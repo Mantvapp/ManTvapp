@@ -1,8 +1,8 @@
 {
   "Scores": [
     {
-      "SportName": "Premier League",
-      "SportImage": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Soccerball.png",
+      "SportName": "Uk Turks-Premier League",
+      "SportImage": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
       "stylecards": 5,
       "SportScores": [
         {
@@ -99,8 +99,8 @@
       "stylesports": 3
     },
     {
-      "SportName": "EFL Championship",
-      "SportImage": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Soccerball.png",
+      "SportName": "Uk Turks-EFL Championship",
+      "SportImage": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
       "stylecards": 5,
       "SportScores": [
         {
@@ -215,8 +215,8 @@
       "stylesports": 3
     },
     {
-      "SportName": "EFL League One",
-      "SportImage": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Soccerball.png",
+      "SportName": "Uk Turks-EFL League One",
+      "SportImage": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
       "stylecards": 5,
       "SportScores": [
         {
