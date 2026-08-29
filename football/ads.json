@@ -6,15 +6,6 @@
       "stylecards": 5,
       "SportScores": [
         {
-          "Time": "20:00",
-          "League": "Premier League",
-          "Stadium": "Selhurst Park",
-          "Team1Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
-          "Team1Name": "Crystal Palace",
-          "Team2Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
-          "Team2Name": "Manchester City"
-        },
-        {
           "Time": "12:30",
           "League": "Premier League",
           "Stadium": "Anfield",
@@ -103,15 +94,6 @@
       "SportImage": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
       "stylecards": 5,
       "SportScores": [
-        {
-          "Time": "20:00",
-          "League": "EFL Championship",
-          "Stadium": "",
-          "Team1Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
-          "Team1Name": "Wrexham",
-          "Team2Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
-          "Team2Name": "Birmingham City"
-        },
         {
           "Time": "12:30",
           "League": "EFL Championship",
