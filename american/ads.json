@@ -44,11 +44,11 @@
   ],
   "sport_categories": [
     {
-      "SportName": "Fixtures",
+      "SportName": "",
       "ReplaysAPI": "https://npr.brightspotcdn.com/dims4/default/f427eb0/2147483647/strip/true/crop/1600x1068+0+0/resize/880x587!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwdde%2Ffiles%2F201908%2Fud-football-generic__donna_mcbride_.jpg",
       "ShowEvents": true,
       "ShowScores": false,
-      "SportImage": "https://npr.brightspotcdn.com/dims4/default/f427eb0/2147483647/strip/true/crop/1600x1068+0+0/resize/880x587!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwdde%2Ffiles%2F201908%2Fud-football-generic__donna_mcbride_.jpg",
+      "SportImage": "https://mantvapp.github.io/ManTvapp/american/1920.1080.png",
       "ThescoreID": "epl",
       "ShowReplays": false,
       "ShowChannels": false,
