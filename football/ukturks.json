@@ -1,372 +1,165 @@
 {
   "LiveEvents": [
     {
-      "MatchStatus": "Thursday, September 10, 2026 01:20",
-      "FirstTeamLogo": "https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg",
-      "FirstTeamName": "New England Patriots",
-      "SecondTeamLogo": "https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg",
-      "SecondTeamName": "Seattle Seahawks",
-      "MatchTime": "01:20",
+      "MatchStatus": "Monday, August 31, 2026 20:00",
+      "FirstTeamLogo": "https://static.vecteezy.com/system/resources/previews/041/929/799/large_2x/flat-illustration-of-england-national-flag-england-flag-design-england-wave-flag-free-vector.jpg",
+      "FirstTeamName": "Aston Villa",
+      "SecondTeamLogo": "https://static.vecteezy.com/system/resources/previews/041/929/799/large_2x/flat-illustration-of-england-national-flag-england-flag-design-england-wave-flag-free-vector.jpg",
+      "SecondTeamName": "Arsenal",
+      "MatchTime": "20:00",
       "StreamData": [
         {
-          "StreamLink": "https://storage.fireboss.app/streamwillbereadysoon.mp4",
+          "StreamLink": "",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
+          "NewappHeaders": [],
+          "NewappHeadersValues": []
         }
       ],
       "PlayIn": "player",
-      "CupName": "NFL",
-      "TV": "NBC",
-      "Tickets": "Available",
-      "LocationWeather": "Lumen Field, Seattle, WA",
-      "Odds": "SEA -3.5 | O/U 44.5"
+      "CupName": "Premier League",
+      "TV": "beIN Sports HD 1, beIN Sports English, beIN SPORTS CONNECT, beIN 4K Arabia, TOD",
+      "Tickets": "",
+      "LocationWeather": "",
+      "Odds": ""
     },
     {
-      "MatchStatus": "Friday, September 11, 2026 01:35",
-      "FirstTeamLogo": "https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg",
-      "FirstTeamName": "San Francisco 49ers",
-      "SecondTeamLogo": "https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg",
-      "SecondTeamName": "Los Angeles Rams",
-      "MatchTime": "01:35",
+      "MatchStatus": "Monday, August 31, 2026 18:30",
+      "FirstTeamLogo": "https://cdn.britannica.com/36/4336-050-056AC114/Flag-Spain.jpg",
+      "FirstTeamName": "Osasuna",
+      "SecondTeamLogo": "https://cdn.britannica.com/36/4336-050-056AC114/Flag-Spain.jpg",
+      "SecondTeamName": "Getafe",
+      "MatchTime": "18:30",
       "StreamData": [
         {
-          "StreamLink": "https://storage.fireboss.app/streamwillbereadysoon.mp4",
+          "StreamLink": "",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
+          "NewappHeaders": [],
+          "NewappHeadersValues": []
         }
       ],
       "PlayIn": "player",
-      "CupName": "NFL",
-      "TV": "Netflix",
-      "Tickets": "Available",
-      "LocationWeather": "Melbourne Cricket Ground, Melbourne, VIC, Australia",
-      "Odds": "LAR -3.5 | O/U 48.5"
+      "CupName": "La Liga",
+      "TV": "beIN Sports HD 5, beIN SPORTS CONNECT, TOD, Startimes Sports Premium, SuperSport MáXimo 3",
+      "Tickets": "",
+      "LocationWeather": "",
+      "Odds": ""
     },
     {
-      "MatchStatus": "Sunday, September 13, 2026 18:00",
-      "FirstTeamLogo": "https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg",
-      "FirstTeamName": "Tampa Bay Buccaneers",
-      "SecondTeamLogo": "https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg",
-      "SecondTeamName": "Cincinnati Bengals",
-      "MatchTime": "18:00",
+      "MatchStatus": "Monday, August 31, 2026 20:30",
+      "FirstTeamLogo": "https://cdn.britannica.com/36/4336-050-056AC114/Flag-Spain.jpg",
+      "FirstTeamName": "Barcelona",
+      "SecondTeamLogo": "https://cdn.britannica.com/36/4336-050-056AC114/Flag-Spain.jpg",
+      "SecondTeamName": "Rayo Vallecano",
+      "MatchTime": "20:30",
       "StreamData": [
         {
-          "StreamLink": "https://storage.fireboss.app/streamwillbereadysoon.mp4",
+          "StreamLink": "",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
+          "NewappHeaders": [],
+          "NewappHeadersValues": []
         }
       ],
       "PlayIn": "player",
-      "CupName": "NFL",
-      "TV": "FOX",
-      "Tickets": "Available",
-      "LocationWeather": "Paycor Stadium, Cincinnati, OH",
-      "Odds": "CIN -3.5 | O/U 51.5"
+      "CupName": "La Liga",
+      "TV": "beIN Sports HD 2, beIN SPORTS CONNECT, TOD, Startimes Sports Premium, Canal+ Sport 4 Afrique",
+      "Tickets": "",
+      "LocationWeather": "",
+      "Odds": ""
     },
     {
-      "MatchStatus": "Sunday, September 13, 2026 18:00",
-      "FirstTeamLogo": "https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg",
-      "FirstTeamName": "New Orleans Saints",
-      "SecondTeamLogo": "https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg",
-      "SecondTeamName": "Detroit Lions",
-      "MatchTime": "18:00",
+      "MatchStatus": "Monday, August 31, 2026 17:30",
+      "FirstTeamLogo": "https://cdn.netzshopping.de/productimages/8/D/B/B00K8VJBD8.jpg",
+      "FirstTeamName": "Lecce",
+      "SecondTeamLogo": "https://cdn.netzshopping.de/productimages/8/D/B/B00K8VJBD8.jpg",
+      "SecondTeamName": "Roma",
+      "MatchTime": "17:30",
       "StreamData": [
         {
-          "StreamLink": "https://storage.fireboss.app/streamwillbereadysoon.mp4",
+          "StreamLink": "",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
+          "NewappHeaders": [],
+          "NewappHeadersValues": []
         }
       ],
       "PlayIn": "player",
-      "CupName": "NFL",
-      "TV": "FOX",
-      "Tickets": "Available",
-      "LocationWeather": "Ford Field, Detroit, MI",
-      "Odds": "DET -7 | O/U 48.5"
+      "CupName": "Serie A",
+      "TV": "STARZPLAY, DStv App, SuperSport Football, Azam Sports 3 HD, DAZN Germany",
+      "Tickets": "",
+      "LocationWeather": "",
+      "Odds": ""
     },
     {
-      "MatchStatus": "Sunday, September 13, 2026 18:00",
-      "FirstTeamLogo": "https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg",
-      "FirstTeamName": "New York Jets",
-      "SecondTeamLogo": "https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg",
-      "SecondTeamName": "Tennessee Titans",
-      "MatchTime": "18:00",
+      "MatchStatus": "Monday, August 31, 2026 19:45",
+      "FirstTeamLogo": "https://cdn.netzshopping.de/productimages/8/D/B/B00K8VJBD8.jpg",
+      "FirstTeamName": "Atalanta",
+      "SecondTeamName": "Bologna",
+      "SecondTeamLogo": "https://cdn.netzshopping.de/productimages/8/D/B/B00K8VJBD8.jpg",
+      "MatchTime": "19:45",
       "StreamData": [
         {
-          "StreamLink": "https://storage.fireboss.app/streamwillbereadysoon.mp4",
+          "StreamLink": "",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
+          "NewappHeaders": [],
+          "NewappHeadersValues": []
         }
       ],
       "PlayIn": "player",
-      "CupName": "NFL",
-      "TV": "CBS",
-      "Tickets": "Available",
-      "LocationWeather": "Nissan Stadium, Nashville, TN",
-      "Odds": "TEN -3 | O/U 38.5"
+      "CupName": "Serie A",
+      "TV": "STARZPLAY, DStv App, SuperSport Football, Azam Sports 3 HD, DAZN Germany",
+      "Tickets": "",
+      "LocationWeather": "",
+      "Odds": ""
     },
     {
-      "MatchStatus": "Sunday, September 13, 2026 18:00",
-      "FirstTeamLogo": "https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg",
-      "FirstTeamName": "Baltimore Ravens",
-      "SecondTeamLogo": "https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg",
-      "SecondTeamName": "Indianapolis Colts",
-      "MatchTime": "18:00",
+      "MatchStatus": "Monday, August 31, 2026 20:15",
+      "FirstTeamLogo": "https://static.vecteezy.com/system/resources/previews/011/158/949/original/national-flag-of-portugal-vector.jpg",
+      "FirstTeamName": "Benfica",
+      "SecondTeamName": "Estoril",
+      "SecondTeamLogo": "https://static.vecteezy.com/system/resources/previews/011/158/949/original/national-flag-of-portugal-vector.jpg",
+      "MatchTime": "20:15",
       "StreamData": [
         {
-          "StreamLink": "https://storage.fireboss.app/streamwillbereadysoon.mp4",
+          "StreamLink": "",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
+          "NewappHeaders": [],
+          "NewappHeadersValues": []
         }
       ],
       "PlayIn": "player",
-      "CupName": "NFL",
-      "TV": "CBS",
-      "Tickets": "Available",
-      "LocationWeather": "Lucas Oil Stadium, Indianapolis, IN",
-      "Odds": "BAL -3.5 | O/U 48.5"
+      "CupName": "Primeira Liga",
+      "TV": "Sportdigital FUSSBALL, Benfica TV, Cosmote Sport 1 HD, Digi Sport 3 Romania, Sport1 Lithuania",
+      "Tickets": "",
+      "LocationWeather": "",
+      "Odds": ""
     },
     {
-      "MatchStatus": "Sunday, September 13, 2026 18:00",
-      "FirstTeamLogo": "https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg",
-      "FirstTeamName": "Atlanta Falcons",
-      "SecondTeamLogo": "https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg",
-      "SecondTeamName": "Pittsburgh Steelers",
-      "MatchTime": "18:00",
+      "MatchStatus": "Monday, August 31, 2026 20:15",
+      "FirstTeamLogo": "https://static.vecteezy.com/system/resources/previews/011/158/949/original/national-flag-of-portugal-vector.jpg",
+      "FirstTeamName": "Sporting Braga",
+      "SecondTeamName": "Vitória Guimarães",
+      "SecondTeamLogo": "https://static.vecteezy.com/system/resources/previews/011/158/949/original/national-flag-of-portugal-vector.jpg",
+      "MatchTime": "20:15",
       "StreamData": [
         {
-          "StreamLink": "https://storage.fireboss.app/streamwillbereadysoon.mp4",
+          "StreamLink": "",
           "UseTimStreamerDecoder": false,
           "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
+          "NewappHeaders": [],
+          "NewappHeadersValues": []
         }
       ],
       "PlayIn": "player",
-      "CupName": "NFL",
-      "TV": "FOX",
-      "Tickets": "Available",
-      "LocationWeather": "Acrisure Stadium, Pittsburgh, PA",
-      "Odds": "PIT -3 | O/U 42.5"
-    },
-    {
-      "MatchStatus": "Sunday, September 13, 2026 18:00",
-      "FirstTeamLogo": "https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg",
-      "FirstTeamName": "Chicago Bears",
-      "SecondTeamLogo": "https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg",
-      "SecondTeamName": "Carolina Panthers",
-      "MatchTime": "18:00",
-      "StreamData": [
-        {
-          "StreamLink": "https://storage.fireboss.app/streamwillbereadysoon.mp4",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
-        }
-      ],
-      "PlayIn": "player",
-      "CupName": "NFL",
-      "TV": "FOX",
-      "Tickets": "Available",
-      "LocationWeather": "Bank of America Stadium, Charlotte, NC",
-      "Odds": "CHI -2.5 | O/U 47.5"
-    },
-    {
-      "MatchStatus": "Sunday, September 13, 2026 18:00",
-      "FirstTeamLogo": "https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg",
-      "FirstTeamName": "Cleveland Browns",
-      "SecondTeamLogo": "https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg",
-      "SecondTeamName": "Jacksonville Jaguars",
-      "MatchTime": "18:00",
-      "StreamData": [
-        {
-          "StreamLink": "https://storage.fireboss.app/streamwillbereadysoon.mp4",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
-        }
-      ],
-      "PlayIn": "player",
-      "CupName": "NFL",
-      "TV": "CBS",
-      "Tickets": "Available",
-      "LocationWeather": "EverBank Stadium, Jacksonville, FL",
-      "Odds": "JAX -7.5 | O/U 40.5"
-    },
-    {
-      "MatchStatus": "Sunday, September 13, 2026 18:00",
-      "FirstTeamLogo": "https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg",
-      "FirstTeamName": "Buffalo Bills",
-      "SecondTeamLogo": "https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg",
-      "SecondTeamName": "Houston Texans",
-      "MatchTime": "18:00",
-      "StreamData": [
-        {
-          "StreamLink": "https://storage.fireboss.app/streamwillbereadysoon.mp4",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
-        }
-      ],
-      "PlayIn": "player",
-      "CupName": "NFL",
-      "TV": "CBS",
-      "Tickets": "Available",
-      "LocationWeather": "Reliant Stadium, Houston, TX",
-      "Odds": "BUF -1.5 | O/U 44.5"
-    },
-    {
-      "MatchStatus": "Sunday, September 13, 2026 21:25",
-      "FirstTeamLogo": "https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg",
-      "FirstTeamName": "Miami Dolphins",
-      "SecondTeamLogo": "https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg",
-      "SecondTeamName": "Las Vegas Raiders",
-      "MatchTime": "21:25",
-      "StreamData": [
-        {
-          "StreamLink": "https://storage.fireboss.app/streamwillbereadysoon.mp4",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
-        }
-      ],
-      "PlayIn": "player",
-      "CupName": "NFL",
-      "TV": "FOX",
-      "Tickets": "Available",
-      "LocationWeather": "Allegiant Stadium, Las Vegas, NV",
-      "Odds": "LV -3.5 | O/U 40.5"
-    },
-    {
-      "MatchStatus": "Sunday, September 13, 2026 21:25",
-      "FirstTeamLogo": "https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg",
-      "FirstTeamName": "Green Bay Packers",
-      "SecondTeamLogo": "https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg",
-      "SecondTeamName": "Minnesota Vikings",
-      "MatchTime": "21:25",
-      "StreamData": [
-        {
-          "StreamLink": "https://storage.fireboss.app/streamwillbereadysoon.mp4",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
-        }
-      ],
-      "PlayIn": "player",
-      "CupName": "NFL",
-      "TV": "CBS",
-      "Tickets": "Available",
-      "LocationWeather": "U.S. Bank Stadium, Minneapolis, MN",
-      "Odds": "MIN -1.5 | O/U 45.5"
-    },
-    {
-      "MatchStatus": "Sunday, September 13, 2026 21:25",
-      "FirstTeamLogo": "https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg",
-      "FirstTeamName": "Washington Commanders",
-      "SecondTeamLogo": "https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg",
-      "SecondTeamName": "Philadelphia Eagles",
-      "MatchTime": "21:25",
-      "StreamData": [
-        {
-          "StreamLink": "https://storage.fireboss.app/streamwillbereadysoon.mp4",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
-        }
-      ],
-      "PlayIn": "player",
-      "CupName": "NFL",
-      "TV": "FOX",
-      "Tickets": "Available",
-      "LocationWeather": "Lincoln Financial Field, Philadelphia, PA",
-      "Odds": "PHI -4.5 | O/U 47.5"
-    },
-    {
-      "MatchStatus": "Sunday, September 13, 2026 21:25",
-      "FirstTeamLogo": "https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg",
-      "FirstTeamName": "Arizona Cardinals",
-      "SecondTeamLogo": "https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg",
-      "SecondTeamName": "Los Angeles Chargers",
-      "MatchTime": "21:25",
-      "StreamData": [
-        {
-          "StreamLink": "https://storage.fireboss.app/streamwillbereadysoon.mp4",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
-        }
-      ],
-      "PlayIn": "player",
-      "CupName": "NFL",
-      "TV": "CBS",
-      "Tickets": "Available",
-      "LocationWeather": "SoFi Stadium, Inglewood, CA",
-      "Odds": "LAC -10.5 | O/U 46.5"
-    },
-    {
-      "MatchStatus": "Monday, September 14, 2026 01:20",
-      "FirstTeamLogo": "https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg",
-      "FirstTeamName": "Dallas Cowboys",
-      "SecondTeamLogo": "https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg",
-      "SecondTeamName": "New York Giants",
-      "MatchTime": "01:20",
-      "StreamData": [
-        {
-          "StreamLink": "https://storage.fireboss.app/streamwillbereadysoon.mp4",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
-        }
-      ],
-      "PlayIn": "player",
-      "CupName": "NFL",
-      "TV": "NBC",
-      "Tickets": "Available",
-      "LocationWeather": "MetLife Stadium, East Rutherford, NJ",
-      "Odds": "DAL -2.5 | O/U 48.5"
-    },
-    {
-      "MatchStatus": "Tuesday, September 15, 2026 01:15",
-      "FirstTeamLogo": "https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg",
-      "FirstTeamName": "Denver Broncos",
-      "SecondTeamLogo": "https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg",
-      "SecondTeamName": "Kansas City Chiefs",
-      "MatchTime": "01:15",
-      "StreamData": [
-        {
-          "StreamLink": "https://storage.fireboss.app/streamwillbereadysoon.mp4",
-          "UseTimStreamerDecoder": false,
-          "UseCDNDecoder": false,
-          "NewappHeaders": ["origin", "referer"],
-          "NewappHeadersValues": ["https://kilat-live.com", "https://kilat-live.com/"]
-        }
-      ],
-      "PlayIn": "player",
-      "CupName": "NFL",
-      "TV": "ESPN, ABC",
-      "Tickets": "Available",
-      "LocationWeather": "Arrowhead Stadium, Kansas City, MO",
-      "Odds": "KC -3 | O/U 42.5"
+      "CupName": "Primeira Liga",
+      "TV": "",
+      "Tickets": "",
+      "LocationWeather": "",
+      "Odds": ""
     }
   ]
 }
