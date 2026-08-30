@@ -6,42 +6,6 @@
       "stylecards": 5,
       "SportScores": [
         {
-          "Time": "12:30",
-          "League": "Premier League",
-          "Stadium": "Anfield",
-          "Team1Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
-          "Team1Name": "Liverpool",
-          "Team2Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
-          "Team2Name": "Nottingham Forest"
-        },
-        {
-          "Time": "15:00",
-          "League": "Premier League",
-          "Stadium": "Vitality Stadium",
-          "Team1Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
-          "Team1Name": "Bournemouth",
-          "Team2Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
-          "Team2Name": "Everton"
-        },
-        {
-          "Time": "15:00",
-          "League": "Premier League",
-          "Stadium": "Coventry Building Society Arena",
-          "Team1Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
-          "Team1Name": "Coventry City",
-          "Team2Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
-          "Team2Name": "Hull City"
-        },
-        {
-          "Time": "17:30",
-          "League": "Premier League",
-          "Stadium": "Tottenham Hotspur Stadium",
-          "Team1Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
-          "Team1Name": "Tottenham Hotspur",
-          "Team2Logo": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg",
-          "Team2Name": "Newcastle United"
-        },
-        {
           "Time": "14:00",
           "League": "Premier League",
           "Stadium": "Stamford Bridge",
