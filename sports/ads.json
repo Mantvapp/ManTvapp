@@ -8,6 +8,7 @@
         {
           "Position": 1,
           "TeamName": "Manchester City",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/england/logos/manchester-city.png?q=65&w=25",
           "Played": 2,
           "Wins": 2,
           "Draws": 0,
@@ -21,6 +22,7 @@
         {
           "Position": 2,
           "TeamName": "Arsenal",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/england/logos/arsenal.png?q=65&w=25",
           "Played": 2,
           "Wins": 2,
           "Draws": 0,
@@ -34,6 +36,7 @@
         {
           "Position": 3,
           "TeamName": "Hull City",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/england/logos/hull-city.png?q=65&w=25",
           "Played": 2,
           "Wins": 2,
           "Draws": 0,
@@ -47,6 +50,7 @@
         {
           "Position": 4,
           "TeamName": "Chelsea",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/england/logos/chelsea.png?q=65&w=25",
           "Played": 2,
           "Wins": 2,
           "Draws": 0,
@@ -60,6 +64,7 @@
         {
           "Position": 5,
           "TeamName": "Brentford",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/england/logos/brentford.png?q=65&w=25",
           "Played": 2,
           "Wins": 1,
           "Draws": 1,
@@ -73,6 +78,7 @@
         {
           "Position": 6,
           "TeamName": "Newcastle United",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/england/logos/newcastle-united.png?q=65&w=25",
           "Played": 2,
           "Wins": 1,
           "Draws": 1,
@@ -86,6 +92,7 @@
         {
           "Position": 7,
           "TeamName": "Everton",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/england/logos/everton.png?q=65&w=25",
           "Played": 2,
           "Wins": 1,
           "Draws": 1,
@@ -99,6 +106,7 @@
         {
           "Position": 8,
           "TeamName": "Leeds United",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/england/logos/leeds-united.png?q=65&w=25",
           "Played": 2,
           "Wins": 1,
           "Draws": 1,
@@ -112,6 +120,7 @@
         {
           "Position": 9,
           "TeamName": "Brighton & Hove Albion",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/england/logos/brighton-hove-albion.png?q=65&w=25",
           "Played": 2,
           "Wins": 1,
           "Draws": 0,
@@ -125,6 +134,7 @@
         {
           "Position": 10,
           "TeamName": "Manchester United",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/england/logos/manchester-united.png?q=65&w=25",
           "Played": 2,
           "Wins": 1,
           "Draws": 0,
@@ -138,6 +148,7 @@
         {
           "Position": 11,
           "TeamName": "Sunderland",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/england/logos/sunderland.png?q=65&w=25",
           "Played": 2,
           "Wins": 1,
           "Draws": 0,
@@ -151,6 +162,7 @@
         {
           "Position": 12,
           "TeamName": "Ipswich Town",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/england/logos/ipswich-town.png?q=65&w=25",
           "Played": 2,
           "Wins": 1,
           "Draws": 0,
@@ -164,6 +176,7 @@
         {
           "Position": 13,
           "TeamName": "Liverpool",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/england/logos/liverpool.png?q=65&w=25",
           "Played": 2,
           "Wins": 0,
           "Draws": 2,
@@ -177,6 +190,7 @@
         {
           "Position": 14,
           "TeamName": "AFC Bournemouth",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/england/logos/bournemouth.png?q=65&w=25",
           "Played": 2,
           "Wins": 0,
           "Draws": 1,
@@ -190,6 +204,7 @@
         {
           "Position": 15,
           "TeamName": "Nottingham Forest",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/england/logos/nottingham-forest.png?q=65&w=25",
           "Played": 2,
           "Wins": 0,
           "Draws": 1,
@@ -203,6 +218,7 @@
         {
           "Position": 16,
           "TeamName": "Fulham",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/england/logos/fulham.png?q=65&w=25",
           "Played": 2,
           "Wins": 0,
           "Draws": 0,
@@ -216,6 +232,7 @@
         {
           "Position": 17,
           "TeamName": "Coventry City",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/england/logos/coventry-city.png?q=65&w=25",
           "Played": 2,
           "Wins": 0,
           "Draws": 0,
@@ -229,6 +246,7 @@
         {
           "Position": 18,
           "TeamName": "Crystal Palace",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/england/logos/crystal-palace.png?q=65&w=25",
           "Played": 2,
           "Wins": 0,
           "Draws": 0,
@@ -242,6 +260,7 @@
         {
           "Position": 19,
           "TeamName": "Aston Villa",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/england/logos/aston-villa.png?q=65&w=25",
           "Played": 2,
           "Wins": 0,
           "Draws": 0,
@@ -255,6 +274,7 @@
         {
           "Position": 20,
           "TeamName": "Tottenham Hotspur",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/england/logos/tottenham-hotspur.png?q=65&w=25",
           "Played": 2,
           "Wins": 0,
           "Draws": 0,
@@ -275,6 +295,7 @@
         {
           "Position": 1,
           "TeamName": "Barcelona",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/spain/logos/barcelona.png?q=65&w=25",
           "Played": 3,
           "Wins": 3,
           "Draws": 0,
@@ -288,6 +309,7 @@
         {
           "Position": 2,
           "TeamName": "Real Madrid",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/spain/logos/real-madrid.png?q=65&w=25",
           "Played": 3,
           "Wins": 3,
           "Draws": 0,
@@ -301,6 +323,7 @@
         {
           "Position": 3,
           "TeamName": "Atlético Madrid",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/spain/logos/atletico-madrid.png?q=65&w=25",
           "Played": 3,
           "Wins": 2,
           "Draws": 1,
@@ -314,6 +337,7 @@
         {
           "Position": 4,
           "TeamName": "Deportivo Alavés",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/spain/logos/deportivo-alaves.png?q=65&w=25",
           "Played": 3,
           "Wins": 2,
           "Draws": 1,
@@ -327,6 +351,7 @@
         {
           "Position": 5,
           "TeamName": "Osasuna",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/spain/logos/osasuna.png?q=65&w=25",
           "Played": 3,
           "Wins": 2,
           "Draws": 1,
@@ -340,6 +365,7 @@
         {
           "Position": 6,
           "TeamName": "Sevilla",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/spain/logos/sevilla.png?q=65&w=25",
           "Played": 3,
           "Wins": 2,
           "Draws": 0,
@@ -353,6 +379,7 @@
         {
           "Position": 7,
           "TeamName": "Real Betis",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/spain/logos/real-betis.png?q=65&w=25",
           "Played": 3,
           "Wins": 2,
           "Draws": 0,
@@ -366,6 +393,7 @@
         {
           "Position": 8,
           "TeamName": "Deportivo La Coruña",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/spain/logos/deportivo-la-coruna.png?q=65&w=25",
           "Played": 3,
           "Wins": 1,
           "Draws": 2,
@@ -379,6 +407,7 @@
         {
           "Position": 9,
           "TeamName": "Racing Santander",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/spain/logos/racing-santander.png?q=65&w=25",
           "Played": 3,
           "Wins": 1,
           "Draws": 1,
@@ -392,6 +421,7 @@
         {
           "Position": 10,
           "TeamName": "Levante",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/spain/logos/levante.png?q=65&w=25",
           "Played": 3,
           "Wins": 1,
           "Draws": 1,
@@ -405,6 +435,7 @@
         {
           "Position": 11,
           "TeamName": "Espanyol",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/spain/logos/espanyol.png?q=65&w=25",
           "Played": 3,
           "Wins": 1,
           "Draws": 0,
@@ -418,6 +449,7 @@
         {
           "Position": 12,
           "TeamName": "Athletic Club",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/spain/logos/athletic-bilbao.png?q=65&w=25",
           "Played": 3,
           "Wins": 1,
           "Draws": 0,
@@ -431,6 +463,7 @@
         {
           "Position": 13,
           "TeamName": "Real Sociedad",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/spain/logos/real-sociedad-de-futbol.png?q=65&w=25",
           "Played": 3,
           "Wins": 1,
           "Draws": 0,
@@ -444,6 +477,7 @@
         {
           "Position": 14,
           "TeamName": "Getafe",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/spain/logos/getafe.png?q=65&w=25",
           "Played": 3,
           "Wins": 1,
           "Draws": 0,
@@ -457,6 +491,7 @@
         {
           "Position": 15,
           "TeamName": "Villarreal",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/spain/logos/villarreal.png?q=65&w=25",
           "Played": 3,
           "Wins": 0,
           "Draws": 2,
@@ -470,6 +505,7 @@
         {
           "Position": 16,
           "TeamName": "Celta de Vigo",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/spain/logos/celta-de-vigo.png?q=65&w=25",
           "Played": 3,
           "Wins": 0,
           "Draws": 1,
@@ -483,6 +519,7 @@
         {
           "Position": 17,
           "TeamName": "Valencia",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/spain/logos/valencia.png?q=65&w=25",
           "Played": 3,
           "Wins": 0,
           "Draws": 1,
@@ -496,6 +533,7 @@
         {
           "Position": 18,
           "TeamName": "Rayo Vallecano",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/spain/logos/rayo-vallecano-madrid.png?q=65&w=25",
           "Played": 3,
           "Wins": 0,
           "Draws": 1,
@@ -509,6 +547,7 @@
         {
           "Position": 19,
           "TeamName": "Elche",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/spain/logos/elche-cf.png?q=65&w=25",
           "Played": 3,
           "Wins": 0,
           "Draws": 1,
@@ -522,6 +561,7 @@
         {
           "Position": 20,
           "TeamName": "Málaga",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/spain/logos/malaga.png?q=65&w=25",
           "Played": 3,
           "Wins": 0,
           "Draws": 1,
@@ -542,6 +582,7 @@
         {
           "Position": 1,
           "TeamName": "Roma",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/italy/logos/as-roma.png?q=65&w=25",
           "Played": 2,
           "Wins": 2,
           "Draws": 0,
@@ -555,6 +596,7 @@
         {
           "Position": 2,
           "TeamName": "Internazionale",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/italy/logos/inter-milan.png?q=65&w=25",
           "Played": 2,
           "Wins": 2,
           "Draws": 0,
@@ -568,6 +610,7 @@
         {
           "Position": 3,
           "TeamName": "Milan",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/italy/logos/ac-milan.png?q=65&w=25",
           "Played": 2,
           "Wins": 2,
           "Draws": 0,
@@ -581,6 +624,7 @@
         {
           "Position": 4,
           "TeamName": "Juventus",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/italy/logos/juventus.png?q=65&w=25",
           "Played": 2,
           "Wins": 2,
           "Draws": 0,
@@ -594,6 +638,7 @@
         {
           "Position": 5,
           "TeamName": "Atalanta",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/italy/logos/atalanta-bergamo.png?q=65&w=25",
           "Played": 2,
           "Wins": 2,
           "Draws": 0,
@@ -607,6 +652,7 @@
         {
           "Position": 6,
           "TeamName": "Lazio",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/italy/logos/lazio-roma.png?q=65&w=25",
           "Played": 2,
           "Wins": 2,
           "Draws": 0,
@@ -620,6 +666,7 @@
         {
           "Position": 7,
           "TeamName": "Udinese",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/italy/logos/udinese.png?q=65&w=25",
           "Played": 2,
           "Wins": 1,
           "Draws": 1,
@@ -633,6 +680,7 @@
         {
           "Position": 8,
           "TeamName": "Como",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/italy/logos/como.png?q=65&w=25",
           "Played": 2,
           "Wins": 1,
           "Draws": 1,
@@ -646,6 +694,7 @@
         {
           "Position": 9,
           "TeamName": "Frosinone",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/italy/logos/frosinone-calcio.png?q=65&w=25",
           "Played": 2,
           "Wins": 1,
           "Draws": 0,
@@ -659,6 +708,7 @@
         {
           "Position": 10,
           "TeamName": "Napoli",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/italy/logos/napoli.png?q=65&w=25",
           "Played": 2,
           "Wins": 1,
           "Draws": 0,
@@ -672,6 +722,7 @@
         {
           "Position": 11,
           "TeamName": "Sassuolo",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/italy/logos/us-sassuolo-calcio.png?q=65&w=25",
           "Played": 2,
           "Wins": 1,
           "Draws": 0,
@@ -685,6 +736,7 @@
         {
           "Position": 12,
           "TeamName": "Cagliari",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/italy/logos/cagliari.png?q=65&w=25",
           "Played": 2,
           "Wins": 1,
           "Draws": 0,
@@ -698,6 +750,7 @@
         {
           "Position": 13,
           "TeamName": "Lecce",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/italy/logos/lecce.png?q=65&w=25",
           "Played": 2,
           "Wins": 1,
           "Draws": 0,
@@ -711,6 +764,7 @@
         {
           "Position": 14,
           "TeamName": "Torino",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/italy/logos/torino.png?q=65&w=25",
           "Played": 2,
           "Wins": 0,
           "Draws": 0,
@@ -724,6 +778,7 @@
         {
           "Position": 15,
           "TeamName": "Bologna",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/italy/logos/bologna.png?q=65&w=25",
           "Played": 2,
           "Wins": 0,
           "Draws": 0,
@@ -737,6 +792,7 @@
         {
           "Position": 16,
           "TeamName": "Genoa",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/italy/logos/genoa.png?q=65&w=25",
           "Played": 2,
           "Wins": 0,
           "Draws": 0,
@@ -750,6 +806,7 @@
         {
           "Position": 17,
           "TeamName": "Parma",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/italy/logos/parma-fc.png?q=65&w=25",
           "Played": 2,
           "Wins": 0,
           "Draws": 0,
@@ -763,6 +820,7 @@
         {
           "Position": 18,
           "TeamName": "Monza",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/italy/logos/monza.png?q=65&w=25",
           "Played": 2,
           "Wins": 0,
           "Draws": 0,
@@ -776,6 +834,7 @@
         {
           "Position": 19,
           "TeamName": "Venezia",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/italy/logos/venezia.png?q=65&w=25",
           "Played": 2,
           "Wins": 0,
           "Draws": 0,
@@ -789,6 +848,7 @@
         {
           "Position": 20,
           "TeamName": "Fiorentina",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/italy/logos/fiorentina.png?q=65&w=25",
           "Played": 2,
           "Wins": 0,
           "Draws": 0,
@@ -809,6 +869,7 @@
         {
           "Position": 1,
           "TeamName": "Bayern München",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/germany/logos/bayern-munchen.png?q=65&w=25",
           "Played": 1,
           "Wins": 1,
           "Draws": 0,
@@ -822,6 +883,7 @@
         {
           "Position": 2,
           "TeamName": "Freiburg",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/germany/logos/sc-freiburg.png?q=65&w=25",
           "Played": 1,
           "Wins": 1,
           "Draws": 0,
@@ -835,6 +897,7 @@
         {
           "Position": 3,
           "TeamName": "Augsburg",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/germany/logos/fc-augsburg.png?q=65&w=25",
           "Played": 1,
           "Wins": 1,
           "Draws": 0,
@@ -848,6 +911,7 @@
         {
           "Position": 4,
           "TeamName": "RB Leipzig",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/germany/logos/rb-leipzig.png?q=65&w=25",
           "Played": 1,
           "Wins": 1,
           "Draws": 0,
@@ -861,6 +925,7 @@
         {
           "Position": 5,
           "TeamName": "Borussia Dortmund",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/germany/logos/borussia-dortmund.png?q=65&w=25",
           "Played": 1,
           "Wins": 1,
           "Draws": 0,
@@ -874,6 +939,7 @@
         {
           "Position": 6,
           "TeamName": "Köln",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/germany/logos/1-fc-koln.png?q=65&w=25",
           "Played": 1,
           "Wins": 1,
           "Draws": 0,
@@ -887,6 +953,7 @@
         {
           "Position": 7,
           "TeamName": "Elversberg",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/germany/logos/elversberg.png?q=65&w=25",
           "Played": 1,
           "Wins": 1,
           "Draws": 0,
@@ -900,6 +967,7 @@
         {
           "Position": 8,
           "TeamName": "Union Berlin",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/germany/logos/union-berlin.png?q=65&w=25",
           "Played": 1,
           "Wins": 0,
           "Draws": 1,
@@ -913,6 +981,7 @@
         {
           "Position": 9,
           "TeamName": "Eintracht Frankfurt",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/germany/logos/eintracht-frankfurt.png?q=65&w=25",
           "Played": 1,
           "Wins": 0,
           "Draws": 1,
@@ -926,6 +995,7 @@
         {
           "Position": 10,
           "TeamName": "Mainz 05",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/germany/logos/1-fsv-mainz-05.png?q=65&w=25",
           "Played": 1,
           "Wins": 0,
           "Draws": 1,
@@ -939,6 +1009,7 @@
         {
           "Position": 11,
           "TeamName": "Paderborn",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/germany/logos/paderborn.png?q=65&w=25",
           "Played": 1,
           "Wins": 0,
           "Draws": 1,
@@ -952,6 +1023,7 @@
         {
           "Position": 12,
           "TeamName": "Bayer Leverkusen",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/germany/logos/bayer-leverkusen.png?q=65&w=25",
           "Played": 1,
           "Wins": 0,
           "Draws": 0,
@@ -965,6 +1037,7 @@
         {
           "Position": 13,
           "TeamName": "Hoffenheim",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/germany/logos/hoffenheim.png?q=65&w=25",
           "Played": 1,
           "Wins": 0,
           "Draws": 0,
@@ -978,6 +1051,7 @@
         {
           "Position": 14,
           "TeamName": "Hamburger SV",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/germany/logos/hamburger-sv.png?q=65&w=25",
           "Played": 1,
           "Wins": 0,
           "Draws": 0,
@@ -991,6 +1065,7 @@
         {
           "Position": 15,
           "TeamName": "Werder Bremen",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/germany/logos/werder-bremen.png?q=65&w=25",
           "Played": 1,
           "Wins": 0,
           "Draws": 0,
@@ -1004,6 +1079,7 @@
         {
           "Position": 16,
           "TeamName": "Schalke 04",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/germany/logos/schalke-04.png?q=65&w=25",
           "Played": 1,
           "Wins": 0,
           "Draws": 0,
@@ -1017,6 +1093,7 @@
         {
           "Position": 17,
           "TeamName": "Borussia M'gladbach",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/germany/logos/borussia-mgladbach.png?q=65&w=25",
           "Played": 1,
           "Wins": 0,
           "Draws": 0,
@@ -1030,6 +1107,7 @@
         {
           "Position": 18,
           "TeamName": "Stuttgart",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/germany/logos/vfb-stuttgart.png?q=65&w=25",
           "Played": 1,
           "Wins": 0,
           "Draws": 0,
@@ -1050,6 +1128,7 @@
         {
           "Position": 1,
           "TeamName": "Monaco",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/france/logos/monaco.png?q=65&w=25",
           "Played": 2,
           "Wins": 2,
           "Draws": 0,
@@ -1063,6 +1142,7 @@
         {
           "Position": 2,
           "TeamName": "Paris",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/france/logos/paris.png?q=65&w=25",
           "Played": 2,
           "Wins": 1,
           "Draws": 1,
@@ -1076,6 +1156,7 @@
         {
           "Position": 3,
           "TeamName": "Lille",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/france/logos/lille.png?q=65&w=25",
           "Played": 2,
           "Wins": 1,
           "Draws": 1,
@@ -1089,6 +1170,7 @@
         {
           "Position": 4,
           "TeamName": "Olympique Lyonnais",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/france/logos/olympique-lyon.png?q=65&w=25",
           "Played": 2,
           "Wins": 1,
           "Draws": 1,
@@ -1102,6 +1184,7 @@
         {
           "Position": 5,
           "TeamName": "Rennes",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/france/logos/stade-rennes.png?q=65&w=25",
           "Played": 2,
           "Wins": 1,
           "Draws": 1,
@@ -1115,6 +1198,7 @@
         {
           "Position": 6,
           "TeamName": "Troyes",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/france/logos/troyes.png?q=65&w=25",
           "Played": 2,
           "Wins": 1,
           "Draws": 1,
@@ -1128,6 +1212,7 @@
         {
           "Position": 7,
           "TeamName": "Lens",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/france/logos/lens.png?q=65&w=25",
           "Played": 2,
           "Wins": 1,
           "Draws": 0,
@@ -1141,6 +1226,7 @@
         {
           "Position": 8,
           "TeamName": "Olympique Marseille",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/france/logos/olympique-marseille.png?q=65&w=25",
           "Played": 2,
           "Wins": 1,
           "Draws": 0,
@@ -1154,6 +1240,7 @@
         {
           "Position": 9,
           "TeamName": "Angers SCO",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/france/logos/angers.png?q=65&w=25",
           "Played": 2,
           "Wins": 1,
           "Draws": 0,
@@ -1167,6 +1254,7 @@
         {
           "Position": 10,
           "TeamName": "Strasbourg",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/france/logos/strasbourg.png?q=65&w=25",
           "Played": 2,
           "Wins": 1,
           "Draws": 0,
@@ -1180,6 +1268,7 @@
         {
           "Position": 11,
           "TeamName": "PSG",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/france/logos/psg.png?q=65&w=25",
           "Played": 2,
           "Wins": 0,
           "Draws": 2,
@@ -1193,6 +1282,7 @@
         {
           "Position": 12,
           "TeamName": "Brest",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/france/logos/brest.png?q=65&w=25",
           "Played": 2,
           "Wins": 0,
           "Draws": 2,
@@ -1206,6 +1296,7 @@
         {
           "Position": 13,
           "TeamName": "Le Mans",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/france/logos/le-mans.png?q=65&w=25",
           "Played": 2,
           "Wins": 0,
           "Draws": 1,
@@ -1219,6 +1310,7 @@
         {
           "Position": 14,
           "TeamName": "Le Havre",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/france/logos/le-havre.png?q=65&w=25",
           "Played": 2,
           "Wins": 0,
           "Draws": 1,
@@ -1232,6 +1324,7 @@
         {
           "Position": 15,
           "TeamName": "Lorient",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/france/logos/lorient.png?q=65&w=25",
           "Played": 2,
           "Wins": 0,
           "Draws": 1,
@@ -1245,6 +1338,7 @@
         {
           "Position": 16,
           "TeamName": "Toulouse",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/france/logos/toulouse.png?q=65&w=25",
           "Played": 2,
           "Wins": 0,
           "Draws": 1,
@@ -1258,6 +1352,7 @@
         {
           "Position": 17,
           "TeamName": "Nice",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/france/logos/nice.png?q=65&w=25",
           "Played": 2,
           "Wins": 0,
           "Draws": 1,
@@ -1271,6 +1366,7 @@
         {
           "Position": 18,
           "TeamName": "Auxerre",
+          "TeamLogo": "https://cdn.livesoccertv.com/tt/images/teams/france/logos/auxerre.png?q=65&w=25",
           "Played": 2,
           "Wins": 0,
           "Draws": 0,
@@ -1307,4 +1403,26 @@
     {
       "ShowQr": false,
       "InterstitialLink": "https://glovo.com",
-      "ShowImage
+      "ShowImageOrVideo": 0,
+      "InterstitialImageLink": "https://i.ytimg.com/vi/gQqlVIKBm7E/maxresdefault.jpg",
+      "InterstitialVideoLink": "https://video.adsoftheworld.com/hx9h2ctz5mkiuojooqeaso8jpk96.mp4",
+      "InterstitialQrImageForTv": "https://i.imgur.com/xWFMqjF.png"
+    },
+    {
+      "ShowQr": false,
+      "InterstitialLink": "https://glovo.com",
+      "ShowImageOrVideo": 0,
+      "InterstitialImageLink": "https://i.ytimg.com/vi/gQqlVIKBm7E/maxresdefault.jpg",
+      "InterstitialVideoLink": "https://video.adsoftheworld.com/eeqz98r9d9c779wt29ousfqkjxm3.mp4",
+      "InterstitialQrImageForTv": "https://i.imgur.com/xWFMqjF.png"
+    },
+    {
+      "ShowQr": false,
+      "InterstitialLink": "https://glovo.com",
+      "ShowImageOrVideo": 1,
+      "InterstitialImageLink": "https://image.adsoftheworld.com/gooc3m74ymk8fjkps26s3ju3oq9z",
+      "InterstitialVideoLink": "https://video.adsoftheworld.com/eeqz98r9d9c779wt29ousfqkjxm3.mp4",
+      "InterstitialQrImageForTv": "https://i.imgur.com/xWFMqjF.png"
+    }
+  ]
+}
